@@ -1,0 +1,10 @@
+C:\Users\sawal\Desktop\The Ranken File\Locked In Homework Time\Chapter16_Test\Chapter16_Test\obj\Debug\Chapter16_Test.csproj.AssemblyReference.cache
+C:\Users\sawal\Desktop\The Ranken File\Locked In Homework Time\Chapter16_Test\Chapter16_Test\obj\Debug\Chapter16_Test.Form1.resources
+C:\Users\sawal\Desktop\The Ranken File\Locked In Homework Time\Chapter16_Test\Chapter16_Test\obj\Debug\Chapter16_Test.Properties.Resources.resources
+C:\Users\sawal\Desktop\The Ranken File\Locked In Homework Time\Chapter16_Test\Chapter16_Test\obj\Debug\Chapter16_Test.csproj.GenerateResource.cache
+C:\Users\sawal\Desktop\The Ranken File\Locked In Homework Time\Chapter16_Test\Chapter16_Test\obj\Debug\Chapter16_Test.csproj.CoreCompileInputs.cache
+C:\Users\sawal\Desktop\The Ranken File\Locked In Homework Time\Chapter16_Test\Chapter16_Test\bin\Debug\Chapter16_Test.exe.config
+C:\Users\sawal\Desktop\The Ranken File\Locked In Homework Time\Chapter16_Test\Chapter16_Test\bin\Debug\Chapter16_Test.exe
+C:\Users\sawal\Desktop\The Ranken File\Locked In Homework Time\Chapter16_Test\Chapter16_Test\bin\Debug\Chapter16_Test.pdb
+C:\Users\sawal\Desktop\The Ranken File\Locked In Homework Time\Chapter16_Test\Chapter16_Test\obj\Debug\Chapter16_Test.exe
+C:\Users\sawal\Desktop\The Ranken File\Locked In Homework Time\Chapter16_Test\Chapter16_Test\obj\Debug\Chapter16_Test.pdb
